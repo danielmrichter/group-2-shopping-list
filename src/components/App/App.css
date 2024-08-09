@@ -1,0 +1,74 @@
+main {
+  width: 90%;
+  margin: auto;
+}
+button {
+  margin: 5px;
+  /* height:25px; */
+  border-radius: 15%;
+}
+.green {
+  background-color: greenyellow;
+}
+.gray {
+  background-color: gray;
+}
+.red {
+  background-color: rgb(244, 80, 51);
+  color:white
+}
+.blue {
+  background-color: rgb(116, 234, 244);
+}
+.unmarkButton{
+  background-color: rgb(116, 234, 244);
+  height: fit-content;
+}
+
+label {
+  font-size: x-large;
+  margin-left:10px;
+}
+
+.formField{
+  margin-top:15px;
+  margin-left: 10px;
+  height:20px;
+  font-size: x-large;
+}
+
+.card {
+  font-family: 'Times New Roman', Times, serif;
+  font-size:x-large;
+  height:150px;
+  width:150px;
+  margin-left:10px;
+  margin-top:15px;
+  border: 1px rgb(234, 229, 229) solid;
+  border-radius: 15%;
+  text-align: center;
+  justify-content: center;
+  }
+
+.graycard {
+  background-color: gray;
+  font-family: 'Times New Roman', Times, serif;
+  font-size:x-large;
+  color: aquamarine;
+  height:150px;
+  width:150px;
+  margin-left:10px;
+  margin-top: 15px;
+  border: 1px rgb(234, 229, 229) solid;
+  border-radius: 15%;
+  text-align: center;
+  justify-content: center;
+  }
+
+.itemArea {
+  display:flex;
+  flex-direction: row;
+}
+.noDisplay{
+  display:none;
+}
