@@ -28,18 +28,18 @@ Node.js
 5. ENJOY!
 
 ## Built With
-Node.js
-React
-Vite
-PostGreSQL
-Axios
-Express
+- Node.js
+- React
+- Vite
+- PostGreSQL
+- Axios
+- Express
 
 ## Acknowledgement
 Thanks to Prime Digital Academy to giving us the skills to make this project!
 
 ## Contributors
-@danielmrichter
-@Jenniphoher
-@mntokijabe
-@tompinataro
+* @danielmrichter
+* @Jenniphoher
+* @mntokijabe
+* @tompinataro
